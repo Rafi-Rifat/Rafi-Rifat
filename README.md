@@ -3,27 +3,37 @@
 
 ---
 
+## Professional Summary
+
+Machine Learning Engineer specializing in Natural Language Processing, Retrieval-Augmented Generation (RAG), and intelligent AI systems. Experienced in developing end-to-end machine learning pipelines, recommendation systems, and deploying production-ready ML applications using FastAPI and Streamlit.
+
+Currently working as an AI Intern at DataSoft Systems Bangladesh Ltd. and previously developed NLP-based AI agents. Passionate about building scalable AI solutions and applying research-driven machine learning to solve real-world problems.
+
+---
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### About Me
+## About Me
 
 • AI Intern @ DataSoft Systems  
 • AI Agent Developer @ CerebralBlue  
+
 • CSE, University of Dhaka  
 
-• Focus Areas:
+**Focus Areas:**
+
 - Machine Learning  
-- NLP  
+- Natural Language Processing  
 - RAG Systems  
 - Recommendation Systems  
+- Generative AI  
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### Tech Stack
+## Tech Stack
 
 **Languages**  
 Python, C++, SQL, JavaScript  
@@ -46,35 +56,37 @@ Git, Linux, Colab
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Featured Projects
+## Featured Projects
 
 **RAG YouTube Q&A System**  
-LangChain + FAISS + OpenAI  
+LangChain, FAISS, OpenAI  
 
 **YouTube Sentiment Analysis**  
 BiLSTM — 92% accuracy  
 
+Repo:  
+https://github.com/Rafi-Rifat/Youtube-Comments-Analyzer  
+
 **News Classification System**  
 94% accuracy  
 
-**Movie Recommendation System**  
-TF-IDF + Cosine Similarity  
+Repo:  
+https://github.com/Rafi-Rifat/bangla-news-prediction-recommendation  
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+## Achievements
 
-### Achievements
-
-BitFest Datathon  
+BitFest Datathon 2024  
 Ranked 5th among 100+ teams  
 
 Solved 500+ problems  
 Codeforces & LeetCode  
 
-Built multiple production-ready ML apps  
+Built multiple production-ready ML systems  
 
 </td>
 </tr>
@@ -89,7 +101,6 @@ Built multiple production-ready ML apps
 <img src="https://github-readme-stats.vercel.app/api?username=Rafi-Rifat&show_icons=true&theme=tokyonight" />
 
 </td>
-
 <td width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Rifat&theme=tokyonight" />
@@ -100,27 +111,24 @@ Built multiple production-ready ML apps
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-### Contact
+## Contact Me
 
 GitHub  
-github.com/Rafi-Rifat  
+https://github.com/Rafi-Rifat  
 
 LinkedIn  
-linkedin.com/in/rafi-al-saad-rifat  
+https://www.linkedin.com/in/rafi-al-saad-rifat-a022282aa/
 
-</td>
+Portfolio  
+https://v0-portfolio-steel-nine.vercel.app/
 
-<td width="50%">
+Email  
+rafialsaadrifat@gmail.com
 
-### Career Goal
+Streamlit Apps  
+https://bangla-news-prediction-recommendation-ouiwpnohphz6f4wmuj2x5r.streamlit.app/  
+https://movierecommender-3vtbaznjet7qes9vu6etye.streamlit.app/
 
-Machine Learning Engineer  
-Building scalable AI systems  
+---
 
-</td>
-</tr>
-</table>
+Machine Learning Engineer focused on building intelligent, scalable AI systems.
