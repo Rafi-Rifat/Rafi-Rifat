@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rafi Al Saad Rifat
 
-### Machine Learning Engineer | NLP Specialist | AI Agent Developer
+### Machine Learning Engineer | AI Agent Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafi-al-saad-rifat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://v0-portfolio-steel-nine.vercel.app/)
@@ -14,24 +14,22 @@
 
 ## 🚀 About Me
 
-```python
-class RafiAlSaadRifat:
-    def __init__(self):
-        self.role = "Machine Learning Engineer"
-        self.education = "CSE @ University of Dhaka"
-        self.current_work = "AI Intern @ DataSoft Systems Bangladesh Ltd."
-        self.specialization = ["NLP", "RAG Systems", "Generative AI", "AI Agents"]
-        self.location = "Dhaka, Bangladesh"
-    
-    def get_expertise(self):
-        return {
-            "Machine Learning": ["Scikit-learn", "PyTorch", "TensorFlow"],
-            "Generative AI": ["LangChain", "RAG", "LLMs", "OpenAI"],
-            "NLP": ["Transformers", "BERT", "BiLSTM", "Text Classification"],
-            "Deployment": ["FastAPI", "Streamlit", "Docker"],
-            "Data Science": ["Pandas", "NumPy", "Data Analysis"]
-        }
-```
+**🎓 Education:** CSE @ University of Dhaka  
+**💼 Current Role:** AI Intern @ DataSoft Systems Bangladesh Ltd.  
+**📍 Location:** Dhaka, Bangladesh
+
+**🔬 Specialization:**
+- Natural Language Processing (NLP)
+- Retrieval Augmented Generation (RAG) Systems
+- Generative AI & LLM Applications
+- AI Agent Development
+
+**💻 Core Expertise:**
+- **Machine Learning:** Scikit-learn, PyTorch, TensorFlow
+- **Generative AI:** LangChain, RAG, LLMs, OpenAI
+- **NLP:** Transformers, BERT, BiLSTM, Text Classification
+- **Deployment:** FastAPI, Streamlit, Docker
+- **Data Science:** Pandas, NumPy, Data Analysis
 
 > 🎯 **Mission:** Building intelligent, production-ready AI systems that solve real-world problems
 
