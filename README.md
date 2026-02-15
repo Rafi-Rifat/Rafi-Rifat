@@ -1,123 +1,183 @@
 <h1 align="center">Rafi Al Saad Rifat</h1>
 <h3 align="center">Machine Learning Engineer | NLP | RAG Systems | AI Agent Developer</h3>
 
----
-
-## Professional Summary
-
-Machine Learning Engineer specializing in Natural Language Processing, Retrieval-Augmented Generation (RAG), and intelligent AI systems. Experienced in developing end-to-end machine learning pipelines, recommendation systems, and deploying production-ready ML applications using FastAPI and Streamlit.
-
-Currently working as an AI Intern at DataSoft Systems Bangladesh Ltd. and previously developed NLP-based AI agents. Passionate about building scalable AI solutions and applying research-driven machine learning to solve real-world problems.
+<p align="center">
+Building intelligent systems using Machine Learning, NLP, and Generative AI
+</p>
 
 ---
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ## About Me
 
-• AI Intern @ DataSoft Systems  
-• AI Agent Developer @ CerebralBlue  
+I am a Computer Science undergraduate at the University of Dhaka specializing in Machine Learning, NLP, and AI systems.
 
-• CSE, University of Dhaka  
+I have industry experience as:
 
-**Focus Areas:**
+• AI Intern at DataSoft Systems Bangladesh Ltd.  
+• AI Agent Developer Intern at CerebralBlue Inc.  
 
-- Machine Learning  
-- Natural Language Processing  
-- RAG Systems  
-- Recommendation Systems  
-- Generative AI  
+I build production-ready ML systems including:
 
-</td>
-<td width="50%" valign="top">
+• Retrieval Augmented Generation (RAG) systems  
+• NLP classification engines  
+• Recommendation systems  
+• ML-powered web applications  
 
-## Tech Stack
-
-**Languages**  
-Python, C++, SQL, JavaScript  
-
-**ML / AI**  
-PyTorch, TensorFlow  
-Scikit-learn, LangChain  
-
-**Deployment**  
-FastAPI, Streamlit, Docker  
-
-**Tools**  
-Git, Linux, Colab  
-
-</td>
-</tr>
-</table>
+My goal is to become a Machine Learning Engineer and build scalable AI systems.
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Core Expertise
+
+Machine Learning  
+Natural Language Processing (NLP)  
+Retrieval Augmented Generation (RAG)  
+Recommendation Systems  
+Generative AI & LLM Applications  
+AI Agent Development  
+
+---
+
+## Tech Stack
+
+Languages  
+Python, C++, SQL, JavaScript  
+
+Machine Learning & AI  
+Scikit-learn  
+PyTorch  
+TensorFlow  
+LangChain  
+FAISS  
+Transformers  
+
+Data Science  
+Pandas  
+NumPy  
+
+Deployment  
+Streamlit  
+FastAPI  
+Docker  
+
+Tools  
+Git  
+Linux  
+Jupyter  
+Colab  
+
+---
 
 ## Featured Projects
 
-**RAG YouTube Q&A System**  
-LangChain, FAISS, OpenAI  
+### RAG-Based YouTube Question Answering System
 
-**YouTube Sentiment Analysis**  
-BiLSTM — 92% accuracy  
+Built complete RAG pipeline using:
 
-Repo:  
-https://github.com/Rafi-Rifat/Youtube-Comments-Analyzer  
+• LangChain  
+• FAISS vector database  
+• OpenAI embeddings  
 
-**News Classification System**  
-94% accuracy  
+Features:
 
-Repo:  
-https://github.com/Rafi-Rifat/bangla-news-prediction-recommendation  
+• Semantic search  
+• Context-aware question answering  
+• Modular LLM pipeline  
 
-</td>
-<td width="50%" valign="top">
+---
+
+### YouTube Sentiment Analysis Engine
+
+Built deep learning sentiment system using:
+
+• BiLSTM  
+• NLP preprocessing pipeline  
+
+Achievements:
+
+• 92% accuracy  
+• Automated comment extraction  
+• Real-time sentiment analysis  
+
+Repository:
+https://github.com/Rafi-Rifat/Youtube-Comments-Analyzer
+
+---
+
+### News Classification & Recommendation System
+
+Machine learning pipeline for:
+
+• News classification  
+• Recommendation  
+
+Performance:
+
+• 94% classification accuracy  
+
+Live App:
+https://bangla-news-prediction-recommendation.streamlit.app/
+
+---
+
+### Movie Recommendation System
+
+Content-based recommendation engine using:
+
+• TF-IDF  
+• Cosine similarity  
+
+Live App:
+https://movierecommender.streamlit.app/
+
+---
+
+## Professional Experience
+
+AI Intern  
+DataSoft Systems Bangladesh Ltd.
+
+• Machine learning experimentation  
+• Data analysis  
+• Research on optimization and AI algorithms  
+
+AI Agent Developer Intern  
+CerebralBlue Inc.
+
+• Built NLP classification agent  
+• Developed FastAPI ML backend  
+• Created preprocessing pipelines  
+
+---
 
 ## Achievements
 
 BitFest Datathon 2024  
 Ranked 5th among 100+ teams  
 
-Solved 500+ problems  
-Codeforces & LeetCode  
-
-Built multiple production-ready ML systems  
-
-</td>
-</tr>
-</table>
+Solved 500+ problems on Codeforces and LeetCode
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+## GitHub Stats
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rafi-Rifat&show_icons=true&theme=tokyonight" />
+</p>
 
-</td>
-<td width="50%">
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Rifat&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## Contact Me
+## Connect With Me
 
 GitHub  
-https://github.com/Rafi-Rifat  
+https://github.com/Rafi-Rifat
 
 LinkedIn  
-https://www.linkedin.com/in/rafi-al-saad-rifat-a022282aa/
+https://linkedin.com/in/rafi-al-saad-rifat
 
 Portfolio  
 https://v0-portfolio-steel-nine.vercel.app/
@@ -125,10 +185,6 @@ https://v0-portfolio-steel-nine.vercel.app/
 Email  
 rafialsaadrifat@gmail.com
 
-Streamlit Apps  
-https://bangla-news-prediction-recommendation-ouiwpnohphz6f4wmuj2x5r.streamlit.app/  
-https://movierecommender-3vtbaznjet7qes9vu6etye.streamlit.app/
-
 ---
 
-Machine Learning Engineer focused on building intelligent, scalable AI systems.
+Machine Learning Engineer in progress
