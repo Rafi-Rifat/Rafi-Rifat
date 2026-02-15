@@ -117,18 +117,6 @@ Interactive recommendation system with real-time poster integration
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafi-Rifat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi-Rifat&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Rifat&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🏆 Achievements
 
