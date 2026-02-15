@@ -1,190 +1,126 @@
 <h1 align="center">Rafi Al Saad Rifat</h1>
 <h3 align="center">Machine Learning Engineer | NLP | RAG Systems | AI Agent Developer</h3>
 
-<p align="center">
-Building intelligent systems using Machine Learning, NLP, and Generative AI
-</p>
-
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%">
 
-I am a Computer Science undergraduate at the University of Dhaka specializing in Machine Learning, NLP, and AI systems.
+### About Me
 
-I have industry experience as:
+• AI Intern @ DataSoft Systems  
+• AI Agent Developer @ CerebralBlue  
+• CSE, University of Dhaka  
 
-• AI Intern at DataSoft Systems Bangladesh Ltd.  
-• AI Agent Developer Intern at CerebralBlue Inc.  
+• Focus Areas:
+- Machine Learning  
+- NLP  
+- RAG Systems  
+- Recommendation Systems  
 
-I build production-ready ML systems including:
+</td>
 
-• Retrieval Augmented Generation (RAG) systems  
-• NLP classification engines  
-• Recommendation systems  
-• ML-powered web applications  
+<td width="50%">
 
-My goal is to become a Machine Learning Engineer and build scalable AI systems.
+### Tech Stack
 
----
-
-## Core Expertise
-
-Machine Learning  
-Natural Language Processing (NLP)  
-Retrieval Augmented Generation (RAG)  
-Recommendation Systems  
-Generative AI & LLM Applications  
-AI Agent Development  
-
----
-
-## Tech Stack
-
-Languages  
+**Languages**  
 Python, C++, SQL, JavaScript  
 
-Machine Learning & AI  
-Scikit-learn  
-PyTorch  
-TensorFlow  
-LangChain  
-FAISS  
-Transformers  
+**ML / AI**  
+PyTorch, TensorFlow  
+Scikit-learn, LangChain  
 
-Data Science  
-Pandas  
-NumPy  
+**Deployment**  
+FastAPI, Streamlit, Docker  
 
-Deployment  
-Streamlit  
-FastAPI  
-Docker  
+**Tools**  
+Git, Linux, Colab  
 
-Tools  
-Git  
-Linux  
-Jupyter  
-Colab  
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-### RAG-Based YouTube Question Answering System
+### Featured Projects
 
-Built complete RAG pipeline using:
+**RAG YouTube Q&A System**  
+LangChain + FAISS + OpenAI  
 
-• LangChain  
-• FAISS vector database  
-• OpenAI embeddings  
+**YouTube Sentiment Analysis**  
+BiLSTM — 92% accuracy  
 
-Features:
+**News Classification System**  
+94% accuracy  
 
-• Semantic search  
-• Context-aware question answering  
-• Modular LLM pipeline  
+**Movie Recommendation System**  
+TF-IDF + Cosine Similarity  
 
----
+</td>
 
-### YouTube Sentiment Analysis Engine
+<td width="50%">
 
-Built deep learning sentiment system using:
+### Achievements
 
-• BiLSTM  
-• NLP preprocessing pipeline  
-
-Achievements:
-
-• 92% accuracy  
-• Automated comment extraction  
-• Real-time sentiment analysis  
-
-Repository:
-https://github.com/Rafi-Rifat/Youtube-Comments-Analyzer
-
----
-
-### News Classification & Recommendation System
-
-Machine learning pipeline for:
-
-• News classification  
-• Recommendation  
-
-Performance:
-
-• 94% classification accuracy  
-
-Live App:
-https://bangla-news-prediction-recommendation.streamlit.app/
-
----
-
-### Movie Recommendation System
-
-Content-based recommendation engine using:
-
-• TF-IDF  
-• Cosine similarity  
-
-Live App:
-https://movierecommender.streamlit.app/
-
----
-
-## Professional Experience
-
-AI Intern  
-DataSoft Systems Bangladesh Ltd.
-
-• Machine learning experimentation  
-• Data analysis  
-• Research on optimization and AI algorithms  
-
-AI Agent Developer Intern  
-CerebralBlue Inc.
-
-• Built NLP classification agent  
-• Developed FastAPI ML backend  
-• Created preprocessing pipelines  
-
----
-
-## Achievements
-
-BitFest Datathon 2024  
+BitFest Datathon  
 Ranked 5th among 100+ teams  
 
-Solved 500+ problems on Codeforces and LeetCode
+Solved 500+ problems  
+Codeforces & LeetCode  
+
+Built multiple production-ready ML apps  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rafi-Rifat&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
+</td>
+
+<td width="50%">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Rifat&theme=tokyonight" />
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect With Me
+<table>
+<tr>
+<td width="50%">
+
+### Contact
 
 GitHub  
-https://github.com/Rafi-Rifat
+github.com/Rafi-Rifat  
 
 LinkedIn  
-https://linkedin.com/in/rafi-al-saad-rifat
+linkedin.com/in/rafi-al-saad-rifat  
 
-Portfolio  
-https://v0-portfolio-steel-nine.vercel.app/
+</td>
 
-Email  
-rafialsaadrifat@gmail.com
+<td width="50%">
 
----
+### Career Goal
 
-Machine Learning Engineer in progress
+Machine Learning Engineer  
+Building scalable AI systems  
+
+</td>
+</tr>
+</table>
